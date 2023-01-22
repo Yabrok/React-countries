@@ -1,0 +1,19 @@
+.hero {
+  padding-top: 40px;
+}
+
+.hero__form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero__input {
+  width: 300px;
+  padding: 10px 5px;
+}
+
+.hero__select {
+  width: 200px;
+  padding: 10px 5px;
+}

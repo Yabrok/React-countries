@@ -1,0 +1,26 @@
+h1{
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+.site-header {
+  padding: 20px 0;
+  box-shadow: 0 1px 30px #000;
+}
+
+.site-header__inner {
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.darkmode {
+  margin-left: auto;
+}

@@ -1,0 +1,14 @@
+.content {
+  padding: 70px 0 40px;
+}
+
+.content__list {
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  list-style-type: none;
+}
